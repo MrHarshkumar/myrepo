@@ -3,3 +3,4 @@ Another new change in the file
 This is another line for test repo
 This is another line for sencond (for confict1)
 Another liin
+Anotehr linez
