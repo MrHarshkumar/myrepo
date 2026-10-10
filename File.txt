@@ -1,6 +1,6 @@
 This is just a change in the file.
 Another new change in the file
 This is another line for test repo
-This is another line for sencond (for confict4)
+This is another line for sencond (for confict)
 Another liin
 Anotehr linez
