@@ -3,9 +3,4 @@ Another new change in the file
 This is another line for test repo
 This is another line for sencond ------111
 Another liin
-<<<<<<< HEAD
 Anotehr linez 
-=======
-Anotehr linez
-New line is added here
->>>>>>> 082556e494a1eb074a9be60e6486ea7db099653c
